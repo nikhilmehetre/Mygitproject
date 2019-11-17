@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6354" started-at="2019-10-20T13:34:57 IST" finished-at="2019-10-20T13:35:04 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6354" started-at="2019-10-20T13:34:57 IST" finished-at="2019-10-20T13:35:04 IST">
+      <class name="framework.test.MyTestNGArchTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:framework.test.MyTestNGArchTest@57536d79]" name="beforeTest" is-config="true" duration-ms="6171" started-at="2019-10-20T13:34:57 IST" finished-at="2019-10-20T13:35:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="CheckPageTitle()[pri:0, instance:framework.test.MyTestNGArchTest@57536d79]" name="CheckPageTitle" duration-ms="20" started-at="2019-10-20T13:35:03 IST" finished-at="2019-10-20T13:35:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckPageTitle -->
+        <test-method status="PASS" signature="CheckUrl()[pri:0, instance:framework.test.MyTestNGArchTest@57536d79]" name="CheckUrl" duration-ms="11" started-at="2019-10-20T13:35:03 IST" finished-at="2019-10-20T13:35:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckUrl -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:framework.test.MyTestNGArchTest@57536d79]" name="AfterTest" is-config="true" duration-ms="102" started-at="2019-10-20T13:35:03 IST" finished-at="2019-10-20T13:35:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- framework.test.MyTestNGArchTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
