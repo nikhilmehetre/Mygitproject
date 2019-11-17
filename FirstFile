@@ -3,3 +3,8 @@ public  int addNumbers(int num1, int num2)
 		int sum = num1+num2;
 		return sum;
 	}
+public int subtractNumbers(int num1, int num2)
+	{
+		int sub = num1-num2;
+		return sub;
+	}
